@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammed Ibrahim Kapusuz
 Front End Developer & Designer
 ------------------------------
 
-Hello, I'm Ibrahim. 18 years old. I am a graduate of FSM Multi-Program Anatolian High School. I am developing studies on HTML, CSS and Javascript. I strive to improve myself every day.
+Hello, I'm Ibrahim. 18 years old. I am developing studies on HTML, CSS and Javascript. I strive to improve myself every day.
 
 * 🌍  I'm based in Istanbul, Turkey.
 * 🖥️  See my portfolio at [here.](http://ibrahimkpsz.github.io)

@@ -9,7 +9,7 @@ Hello, I'm Ibrahim. 18 years old. I am developing studies on HTML, CSS and Javas
 * 🌍  I'm based in Istanbul, Turkey.
 * 🖥️  See my portfolio at [here.](http://ibrahimkpsz.github.io)
 * ✉️  You can contact me at [ibrahimkpsz@outlook.com](mailto:ibrahimkpsz@outlook.com)
-* 🧠  I'm learning .NET Core.
+* 🧠  I'm learning .PHP.
 
 <a href="https://www.github.com/ibrahimkpsz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ibrahimkpsz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

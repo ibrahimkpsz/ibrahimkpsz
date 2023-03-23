@@ -7,9 +7,9 @@ Front End Developer & Designer
 Hello, I'm Ibrahim. 18 years old. I am developing studies on HTML, CSS, Bootstrap and Javascript. I strive to improve myself every day.
 
 * 🌍  I'm based in Istanbul, Turkey.
-* 🖥️  See my portfolio at [here.](http://ibrahimkpsz.github.io)
+* 🖥️  See my portfolio at [here.](http://www.ibrahimkpsz.com)
 * ✉️  You can contact me at [ibrahimkpsz@outlook.com](mailto:ibrahimkpsz@outlook.com)
-* 🧠  I'm learning .JS.
+* 🧠  I'm learning React.
 
 <a href="https://www.github.com/ibrahimkpsz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ibrahimkpsz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

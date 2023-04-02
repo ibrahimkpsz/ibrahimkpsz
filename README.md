@@ -29,7 +29,12 @@ src="https://img.shields.io/github/followers/ibrahimkpsz?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ibrahimkpsz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ibrahimkpszz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.ibrahimkpsz.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ibrahimkpsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahimkpsz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahimkpsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimkpsz" height="30" width="40" /></a>
+<a href="https://instagram.com/ibrahimkpszz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimkpszz" height="30" width="40" /></a>
+</p>
 
 ### Badges
 

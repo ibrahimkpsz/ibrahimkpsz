@@ -12,7 +12,8 @@ Hello, I'm Ibrahim. 18 years old. I am developing studies on HTML, CSS, Bootstra
 * 🧠  I'm learning React.
 
 <a href="https://www.github.com/ibrahimkpsz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ibrahimkpsz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/ibrahimkpsz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimkpsz&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimkpsz" /> </p>
+
 
 ### Skills
 

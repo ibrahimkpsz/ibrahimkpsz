@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/ibrahimkpsz?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ibrahimkpsz"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimkpsz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ibrahimkpsz's GitHub stats" /></a>
+<a href="http://www.github.com/ibrahimkpsz"><img src="https://github-rWWWWWWWWWWWWWWWWWWWeadme-stats.vercel.app/api?username=ibrahimkpsz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ibrahimkpsz's GitHub stats" /></a>
 
 <a href="https://github.com/ibrahimkpsz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkpsz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
@@ -40,17 +40,17 @@ src="https://img.shields.io/github/followers/ibrahimkpsz?logo=github&style=for-t
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      github-user-contribution.svg
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      github-user-contribution.svg
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
     "
   />
   <img
     alt="github contribution grid snake animation"
-    src="github-user-contribution.svg"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>

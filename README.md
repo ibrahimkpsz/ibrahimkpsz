@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/ibrahimkpsz?logo=github&style=for-t
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+      github-user-contribution.svg
     "
   />
   <source

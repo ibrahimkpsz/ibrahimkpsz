@@ -39,18 +39,14 @@ src="https://img.shields.io/github/followers/ibrahimkpsz?logo=github&style=for-t
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
-    "
+    srcset="https://www.ibrahimkpsz.com/img/github-user-contribution"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
-    "
+    srcset="https://www.ibrahimkpsz.com/img/github-user-contribution"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://www.ibrahimkpsz.com/img/github-user-contribution"
   />
 </picture>

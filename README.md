@@ -4,7 +4,7 @@ Hi 👋 My name is Ibrahim Kapusuz
 Front End Developer & Designer
 ------------------------------
 
-Hello, I'm Ibrahim. 19 years old. I am developing studies on HTML, CSS, Bootstrap and Javascript. I strive to improve myself every day.
+Hello, I'm Ibrahim. 19 years old. I am developing studies on React JS, Next JS and Tailwind CSS . I strive to improve myself every day.
 
 * 🌍  I'm based in Istanbul, Turkey.
 * ✉️  You can contact me at [ibrahimkpsz@outlook.com](mailto:ibrahimkpsz@outlook.com)
